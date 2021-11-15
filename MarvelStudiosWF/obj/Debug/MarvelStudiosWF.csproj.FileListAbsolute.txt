@@ -1,0 +1,9 @@
+D:\Personal Projects\MarvelStudiosWF\MarvelStudiosWF\bin\Debug\MarvelStudiosWF.exe.config
+D:\Personal Projects\MarvelStudiosWF\MarvelStudiosWF\bin\Debug\MarvelStudiosWF.exe
+D:\Personal Projects\MarvelStudiosWF\MarvelStudiosWF\bin\Debug\MarvelStudiosWF.pdb
+D:\Personal Projects\MarvelStudiosWF\MarvelStudiosWF\obj\Debug\MarvelStudiosWF.Form1.resources
+D:\Personal Projects\MarvelStudiosWF\MarvelStudiosWF\obj\Debug\MarvelStudiosWF.Properties.Resources.resources
+D:\Personal Projects\MarvelStudiosWF\MarvelStudiosWF\obj\Debug\MarvelStudiosWF.csproj.GenerateResource.cache
+D:\Personal Projects\MarvelStudiosWF\MarvelStudiosWF\obj\Debug\MarvelStudiosWF.csproj.CoreCompileInputs.cache
+D:\Personal Projects\MarvelStudiosWF\MarvelStudiosWF\obj\Debug\MarvelStudiosWF.exe
+D:\Personal Projects\MarvelStudiosWF\MarvelStudiosWF\obj\Debug\MarvelStudiosWF.pdb
