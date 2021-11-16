@@ -26,11 +26,10 @@ namespace MarvelStudiosWF
 
         private void CreateMovie(Movie movie)
         {
-            if (movieRepo.UpdateMovie(movie)) {
+            if (movieRepo.CreateMovie(movie)) {
                 createMsg.Text = "Created successfully.";
                 FetchMovie();
             }
-                
         }
 
         private void UpdateMovie(Movie movie)
@@ -62,6 +61,7 @@ namespace MarvelStudiosWF
                 Budget = Convert.ToDecimal(textBox_budget.Text),
             };
 
+            CreateMovie(movie);
         }
 
         private void button2_Click(object sender, EventArgs e)

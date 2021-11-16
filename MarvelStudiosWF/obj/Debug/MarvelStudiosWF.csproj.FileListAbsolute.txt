@@ -7,3 +7,13 @@ D:\Personal Projects\MarvelStudiosWF\MarvelStudiosWF\obj\Debug\MarvelStudiosWF.c
 D:\Personal Projects\MarvelStudiosWF\MarvelStudiosWF\obj\Debug\MarvelStudiosWF.csproj.CoreCompileInputs.cache
 D:\Personal Projects\MarvelStudiosWF\MarvelStudiosWF\obj\Debug\MarvelStudiosWF.exe
 D:\Personal Projects\MarvelStudiosWF\MarvelStudiosWF\obj\Debug\MarvelStudiosWF.pdb
+D:\Portfolio Projects\MarvelStudiosWF\MarvelStudiosWF\bin\Debug\MarvelStudiosWF.exe.config
+D:\Portfolio Projects\MarvelStudiosWF\MarvelStudiosWF\bin\Debug\MarvelStudiosWF.exe
+D:\Portfolio Projects\MarvelStudiosWF\MarvelStudiosWF\bin\Debug\MarvelStudiosWF.pdb
+D:\Portfolio Projects\MarvelStudiosWF\MarvelStudiosWF\obj\Debug\MarvelStudiosWF.csprojAssemblyReference.cache
+D:\Portfolio Projects\MarvelStudiosWF\MarvelStudiosWF\obj\Debug\MarvelStudiosWF.Form1.resources
+D:\Portfolio Projects\MarvelStudiosWF\MarvelStudiosWF\obj\Debug\MarvelStudiosWF.Properties.Resources.resources
+D:\Portfolio Projects\MarvelStudiosWF\MarvelStudiosWF\obj\Debug\MarvelStudiosWF.csproj.GenerateResource.cache
+D:\Portfolio Projects\MarvelStudiosWF\MarvelStudiosWF\obj\Debug\MarvelStudiosWF.csproj.CoreCompileInputs.cache
+D:\Portfolio Projects\MarvelStudiosWF\MarvelStudiosWF\obj\Debug\MarvelStudiosWF.exe
+D:\Portfolio Projects\MarvelStudiosWF\MarvelStudiosWF\obj\Debug\MarvelStudiosWF.pdb
